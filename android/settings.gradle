@@ -1,0 +1,25 @@
+rootProject.name = 'Boxroom'
+include ':react-native-payments'
+project(':react-native-payments').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-payments/android')
+include ':react-native-get-music-files'
+project(':react-native-get-music-files').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-get-music-files/android')
+include ':react-native-device-info'
+project(':react-native-device-info').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-device-info/android')
+include ':react-native-android-wifi'
+project(':react-native-android-wifi').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-wifi/android')
+include ':react-native-video'
+project(':react-native-video').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-video/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(settingsDir, '../node_modules/react-native-fs/android')
+include ':react-native-wifi-p2p'
+project(':react-native-wifi-p2p').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-wifi-p2p/android')
+include ':react-native-sound'
+project(':react-native-sound').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-sound/android')
+include ':react-native-share'
+project(':react-native-share').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-share/android')
+include ':react-native-media-meta'
+project(':react-native-media-meta').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-media-meta/android')
+
+include ':app'

@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/Work/Boxroom/Project/MainProject/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.m \
+  /Volumes/Work/Boxroom/Project/MainProject/node_modules/react-native-vector-icons/RNVectorIconsManager/RNVectorIconsManager.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Work/Boxroom/Project/MainProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>2607C21E-4936-40A2-8D8B-E7D0EECB1370</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2607C21E-4936-40A2-8D8B-E7D0EECB1370.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Boxroom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Boxroom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Boxroom with scheme Boxroom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568222573.49980903</real>
+			<key>timeStoppedRecording</key>
+			<real>568222683.56698298</real>
+			<key>title</key>
+			<string>Building workspace Boxroom with scheme Boxroom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2607C21E-4936-40A2-8D8B-E7D0EECB1370</string>
+		</dict>
+		<key>9B9413A3-3F55-4459-B7E8-11AEAD0C7D91</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9B9413A3-3F55-4459-B7E8-11AEAD0C7D91.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Boxroom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Boxroom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Boxroom with scheme Boxroom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568219820.99888098</real>
+			<key>timeStoppedRecording</key>
+			<real>568219836.36565006</real>
+			<key>title</key>
+			<string>Building workspace Boxroom with scheme Boxroom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9B9413A3-3F55-4459-B7E8-11AEAD0C7D91</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/xml/filepaths.xml",
+        "source": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/xml/provider_image_picker_paths.xml",
+        "source": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/src/main/res/xml/provider_image_picker_paths.xml"
+    }
+]
