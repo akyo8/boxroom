@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/RCTDefines.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/RCTDefines.h

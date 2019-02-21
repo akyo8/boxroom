@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

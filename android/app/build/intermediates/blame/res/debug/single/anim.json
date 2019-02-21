@@ -1,74 +1,74 @@
 [
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_fade_in.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_slide_in_top.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_slide_up.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_popup_enter.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_slide_out_top.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_fade_out.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_fade_in.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/tooltip_enter.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_tooltip_enter.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_fade_out.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_tooltip_exit.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_popup_exit.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_slide_up.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_push_up_in.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/react-native-0.58.4.aar/83dd1705d31af3bf1a0fd4eb52b41602/res/anim/catalyst_fade_out.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/tooltip_exit.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_fade_in.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/947c2d9e5e3f019d094afe5d0d9b7fea/res/anim/catalyst_slide_down.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/anim/abc_slide_in_top.xml"
     }
 ]

@@ -1,0 +1,26 @@
+dependencies: \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

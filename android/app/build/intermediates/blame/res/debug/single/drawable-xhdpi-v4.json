@@ -1,238 +1,286 @@
 [
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_expand.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_expand.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_back.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_back.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_volume.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_volume.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_shrink.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_shrink.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativethumbnailvideo_src_assets_play.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_erroricon.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_erroricon.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_bottomvignette.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_topvignette.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_topvignette.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_disabled_color_18.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_pause.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_pause.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e653bfcddadb3530b88c5f14ebdb76a7/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_loadericon.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_loadericon.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/node_modules_reactnativevideocontrols_assets_img_play.png",
+        "source": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativevideocontrols_assets_img_play.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/cf044148306f65f6266920eb81c67e2b/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     }
 ]

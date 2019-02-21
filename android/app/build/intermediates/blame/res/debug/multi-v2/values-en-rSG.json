@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "outputFile": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-wallet-16.0.0.aar/e1176ac8552d5d4dc08946f801fd2dda/res/values-en-rSG/values.xml",
+                    "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-wallet-16.0.0.aar/e396d1e3eed2df09af8aed76f6d8fb75/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/values-en-rSG/values-en-rSG.xml",
+            "outputFile": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/play-services-wallet-16.0.0.aar/e1176ac8552d5d4dc08946f801fd2dda/res/values-en-rSG/values.xml",
+                    "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/play-services-wallet-16.0.0.aar/e396d1e3eed2df09af8aed76f6d8fb75/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

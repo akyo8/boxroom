@@ -1,10 +1,10 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.cc \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/utilities.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/base/mutex.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/config.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/glog/logging.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/glog/log_severity.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/glog/vlog_is_on.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/symbolize.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/third-party/glog-0.3.4/src/demangle.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/symbolize.cc \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/utilities.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/base/mutex.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/config.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/glog/logging.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/exported/glog/log_severity.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/exported/glog/vlog_is_on.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/symbolize.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/third-party/glog-0.3.5/src/demangle.h

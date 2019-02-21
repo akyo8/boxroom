@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/ios/Boxroom/main.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/ios/Boxroom/AppDelegate.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/ios/Boxroom/main.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/ios/Boxroom/AppDelegate.h

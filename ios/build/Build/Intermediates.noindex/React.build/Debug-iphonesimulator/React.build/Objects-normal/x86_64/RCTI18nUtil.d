@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Modules/RCTI18nUtil.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Modules/RCTI18nUtil.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Modules/RCTI18nUtil.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Modules/RCTI18nUtil.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

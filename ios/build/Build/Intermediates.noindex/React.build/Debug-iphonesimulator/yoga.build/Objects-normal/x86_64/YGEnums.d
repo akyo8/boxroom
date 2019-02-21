@@ -1,4 +1,4 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.cpp \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h

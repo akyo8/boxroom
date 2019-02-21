@@ -1,18 +1,26 @@
 [
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ffc09653bd234d73b61d3d9a336ba6f7/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20f79963b1a498ae5c2506e46328a19b/res/drawable-v21/notification_action_background.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Volumes/Work/ReactNative/wifitransfer/MainProject/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/sergey/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6357c60dc8a09c4d7177ef7ce3ead806/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/evgenyvaganov/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/267cc3efc27d83433049bcfb20cd4d0b/res/drawable-v21/abc_list_divider_material.xml"
     }
 ]

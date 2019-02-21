@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/RCTManagedPointer.mm \
-  /Volumes/Work/ReactNative/wifitransfer/MainProject/node_modules/react-native/React/Base/RCTManagedPointer.h
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/RCTManagedPointer.mm \
+  /Volumes/Free/Work/ReactNative/Boxroom/CodeBase/boxroom/node_modules/react-native/React/Base/RCTManagedPointer.h
